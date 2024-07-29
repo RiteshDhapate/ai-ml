@@ -1,0 +1,562 @@
+Faculty,Are you currently taking any add-on or extra cocurricular courses outside of your major requirements?,Do you prefer courses that are more theoretical or practical in nature?,Are you interested to learn add on courses?,Which Programming Languages are you Proficient in?,Interested in,What are your Primary areas of interest within computer Science field?,Do you have any background knowledge in
+Commerce,Yes,Both,Yes,C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,Yes,Both,Yes,Python;C/C++,Android App Development;Application Development,Data Science;CyberSecurity,C/C++;Operating System
+Commerce,Yes,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,Yes,Both,Yes,Python;Java,Web Development,Data Science;CyberSecurity;Web Developement,Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,Python,Web Development,Web Developement,Data Structure
+Commerce,Yes,Practical,Yes,Python,Android App Development,Web Developement,Angular JS
+Commerce,Yes,Both,Yes,Java,Web Development;Android App Development,AI/ML,Operating System;Software Engineering
+Commerce,No,Both,Yes,Python;Java;C/C++,Web Development,AI/ML;Data Science;CyberSecurity,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,Android App Development;Windows Application Development,CyberSecurity,C/C++
+Commerce,Yes,Practical,Yes,C/C++,Web Development,Software Engineering,Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++
+Commerce,No,Both,Yes,C/C++;JavaScript,Android App Development;Windows Application Development,AI/ML;Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,C/C++;JavaScript,Web Development;Android App Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,Yes,Practical,Yes,Python;C/C++,Android App Development;Application Development,CyberSecurity,C/C++;Data Structure
+Commerce,No,Both,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Commerce,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,Web Development;Application Development;Utility Software,AI/ML;Data Science,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Theoretical,Yes,Python;Java;C/C++,Web Development;Android App Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Java,Web Development,Web Developement,Angular JS
+Commerce,Yes,Practical,Yes,Python;Java,Web Development;Android App Development,AI/ML;Data Science,C/C++
+Commerce,No,Both,Yes,Java;C/C++;JavaScript,Web Development;Windows Application Development;Application Development,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++;JavaScript,Android App Development,Data Science;Web Developement,C/C++;Software Engineering
+Commerce,Yes,Theoretical,Yes,C/C++,Web Development;Android App Development;Application Development,AI/ML;Data Science;Web Developement,C/C++
+Commerce,Yes,Both,Yes,C/C++,Web Development,Data Science,C/C++
+Commerce,Yes,Both,Yes,Python,Windows Application Development,AI/ML,Data Structure
+Commerce,No,Both,Yes,Java,Android App Development,CyberSecurity,Data Structure
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Node JS;Software Engineering
+Commerce,No,Both,Yes,JavaScript,Android App Development,Data Science,C/C++
+Commerce,Yes,Practical,Yes,Java;C/C++,Web Development,Web Developement,C/C++
+Commerce,Yes,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development,Data Science;CyberSecurity,Operating System;Data Structure;Angular JS;Node JS
+Commerce,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Application Development,Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Node JS;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java,Web Development;Android App Development,Software Engineering;Web Developement,C/C++;Data Structure
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development,Software Engineering;CyberSecurity;Web Developement,C/C++
+Commerce,Yes,Both,Yes,Python,Android App Development;Windows Application Development,Data Science,C/C++
+Commerce,Yes,Practical,Yes,Java;C/C++;JavaScript,Android App Development,Software Engineering,Operating System
+Commerce,No,Practical,Yes,Python,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS
+Commerce,No,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Software Engineering;CyberSecurity,C/C++;Data Structure
+Commerce,Yes,Both,Yes,Python;Java,Android App Development;Application Development,AI/ML;Data Science,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Python;Java;C/C++,Web Development;Windows Application Development,CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python,Web Development;Android App Development,Data Science;Web Developement,C/C++;Operating System;Data Structure
+Commerce,Yes,Practical,Yes,Java;C/C++;JavaScript,Web Development;Android App Development;Application Development,Software Engineering;CyberSecurity;Web Developement,Operating System
+Commerce,No,Practical,Yes,C/C++,Web Development,Web Developement,C/C++
+Science,No,Both,Yes,C/C++;JavaScript,Web Development;Windows Application Development,AI/ML;Data Science;Software Engineering,C/C++;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,Android App Development,AI/ML,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,C/C++,Application Development,Data Science,Operating System
+Commerce,No,Both,Yes,Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development,Data Science;Software Engineering;Web Developement,C/C++
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Android App Development;Windows Application Development,Data Science,Data Structure
+Commerce,Yes,Both,Yes,C/C++;JavaScript,Web Development,Web Developement,C/C++;Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,No,Both,Yes,C/C++,Web Development;Android App Development;Application Development,Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java,Utility Software,AI/ML,C/C++
+Science,No,Both,Yes,Python;Java,Web Development;Application Development,AI/ML;Data Science;CyberSecurity,C/C++;Operating System;Data Structure
+Commerce,No,Practical,Yes,Python;Java;JavaScript,Web Development;Android App Development;Application Development,Data Science;CyberSecurity;Web Developement,Operating System;Angular JS;Node JS
+Commerce,No,Practical,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,No,Practical,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,Yes,Theoretical,Yes,Java,Android App Development,Software Engineering,Data Structure
+Science,Yes,Practical,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Science,No,Both,Yes,Python;C/C++,Web Development;Utility Software,Data Science;Software Engineering;CyberSecurity,C/C++;Operating System;Software Engineering
+Commerce,Yes,Both,Yes,Python,Web Development,Data Science,Software Engineering
+Science,Yes,Theoretical,Yes,Python,Web Development,Data Science,C/C++
+Commerce,No,Practical,Yes,C/C++;JavaScript,Android App Development,Web Developement,C/C++;Operating System
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development;Application Development,AI/ML;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,Web Development,Software Engineering;Web Developement,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,Java,Web Development,Web Developement,Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development,CyberSecurity;Web Developement,Software Engineering
+Commerce,Yes,Both,Yes,Python;C/C++,Web Development,Data Science,C/C++
+Science,No,Both,Yes,C/C++,Web Development,Data Science;CyberSecurity,C/C++;Operating System
+Commerce,Yes,Both,Yes,Python,Android App Development,CyberSecurity,Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development;Android App Development;Windows Application Development,AI/ML;Data Science;Web Developement,C/C++;Data Structure
+Science,Yes,Both,Yes,Python,Application Development,Software Engineering,Software Engineering
+Commerce,Yes,Both,No,Python,Web Development,CyberSecurity,C/C++;Node JS;Software Engineering
+Commerce,Yes,Both,Yes,Python;C/C++;JavaScript,Web Development;Windows Application Development;Application Development,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,Java;C/C++;JavaScript,Web Development;Android App Development;Application Development,CyberSecurity;Web Developement,C/C++
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,Android App Development,Software Engineering,C/C++
+Science,No,Both,Yes,C/C++;JavaScript,Web Development;Android App Development;Application Development,AI/ML;Data Science;CyberSecurity,C/C++;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,C/C++,Web Development;Android App Development,Web Developement,Data Structure
+Science,Yes,Theoretical,Yes,Python,Web Development,Data Science,Software Engineering
+Science,Yes,Both,Yes,Python,Windows Application Development,Data Science;Software Engineering,C/C++
+Commerce,Yes,Both,Yes,C/C++,Application Development,CyberSecurity,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,No,Practical,Yes,Python,Web Development,Software Engineering,Operating System
+Commerce,Yes,Practical,Yes,Java,Web Development,AI/ML,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,C/C++,Web Development,Software Engineering,C/C++
+Commerce,No,Practical,Yes,C/C++,Web Development,Web Developement,C/C++
+Science,Yes,Practical,Yes,C/C++,Android App Development,Web Developement,C/C++
+Commerce,No,Both,Yes,Python,Web Development,CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Theoretical,Yes,Python,Utility Software,Software Engineering,Software Engineering
+Science,No,Both,Yes,Python;C/C++;JavaScript,Web Development;Android App Development,AI/ML;Data Science;Software Engineering,C/C++;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Java;C/C++;JavaScript,Web Development;Windows Application Development,CyberSecurity;Web Developement,C/C++;Operating System
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Utility Software,Data Science,Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++,Web Development,Software Engineering,Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Android App Development,AI/ML;Data Science;Software Engineering;CyberSecurity,C/C++
+Science,No,Practical,No,C/C++,Web Development,Web Developement,C/C++
+Commerce,Yes,Both,Yes,Java,Web Development,Web Developement,C/C++;Operating System;Data Structure;Angular JS;Software Engineering
+Commerce,Yes,Both,Yes,Java,Android App Development,Web Developement,C/C++;Angular JS;Node JS
+Commerce,Yes,Both,Yes,Python,Web Development,AI/ML,Angular JS;Node JS
+Science,No,Both,Yes,C/C++,Web Development;Application Development,AI/ML,C/C++
+Commerce,No,Practical,Yes,C/C++,Application Development,Data Science;CyberSecurity,C/C++;Operating System;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,Web Development;Application Development,Web Developement,Data Structure
+Commerce,Yes,Both,Yes,Java;C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Software Engineering
+Commerce,Yes,Practical,Yes,Java,Web Development,Web Developement,C/C++;Operating System;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Practical,Yes,Java;C/C++;JavaScript,Application Development,Software Engineering,C/C++;Operating System;Data Structure;Angular JS;Software Engineering
+Science,No,Both,Yes,Python;C/C++;JavaScript,Web Development,Web Developement,C/C++
+Science,No,Both,Yes,Python;Java;C/C++,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,Web Development;Application Development;Utility Software,AI/ML;Software Engineering;CyberSecurity,C/C++;Operating System;Software Engineering
+Commerce,Yes,Both,Yes,Python,Android App Development,Data Science,C/C++
+Commerce,No,Both,Yes,Java,Web Development,CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,Yes,Both,No,C/C++,Web Development,Web Developement,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Science,Yes,Practical,Yes,C/C++,Utility Software,Software Engineering,C/C++;Data Structure
+Science,No,Practical,Yes,C/C++,Android App Development;Application Development;Utility Software,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Commerce,Yes,Practical,Yes,C/C++;JavaScript,Web Development;Application Development,Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Practical,Yes,Java,Web Development;Android App Development;Windows Application Development,Data Science;CyberSecurity;Web Developement,Operating System;Data Structure
+Commerce,Yes,Both,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Commerce,Yes,Both,Yes,C/C++,Application Development,Data Science,Operating System
+Commerce,No,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Science,No,Both,Yes,C/C++,Android App Development;Application Development,Data Science;CyberSecurity,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,Web Development;Application Development,AI/ML,C/C++
+Commerce,No,Both,Yes,C/C++,Web Development;Android App Development;Application Development,Data Science;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Commerce,No,Practical,Yes,Python;Java,Web Development;Windows Application Development,AI/ML;CyberSecurity,C/C++
+Commerce,No,Practical,No,Python,Web Development,CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Java,Android App Development,Software Engineering,Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++,Web Development;Android App Development;Application Development,AI/ML;Software Engineering;CyberSecurity,C/C++;Data Structure
+Science,Yes,Both,Yes,C/C++,Web Development,Data Science,C/C++
+Science,Yes,Practical,Yes,Angular JS,Web Development,Software Engineering,C/C++
+Commerce,Yes,Both,Yes,Java,Web Development,Web Developement,C/C++
+Commerce,Yes,Both,Yes,Python,Android App Development;Application Development,AI/ML;Data Science;CyberSecurity,C/C++
+Science,No,Both,Yes,C/C++,Web Development;Android App Development,AI/ML;CyberSecurity,C/C++
+Science,No,Both,Yes,C/C++,Web Development,AI/ML;CyberSecurity,C/C++
+Science,No,Theoretical,Yes,Python;C/C++,Android App Development;Windows Application Development;Application Development,AI/ML;Data Science;CyberSecurity,C/C++;Data Structure
+Science,No,Practical,Yes,Python,Android App Development;Application Development,Data Science;CyberSecurity,C/C++
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development;Application Development,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development;Android App Development;Application Development;Utility Software,Software Engineering;CyberSecurity;Web Developement,C/C++
+Science,No,Both,Yes,Python,Web Development;Android App Development;Windows Application Development,AI/ML;Data Science;Software Engineering,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Theoretical,Yes,Python,Windows Application Development,Data Science,Operating System
+Science,Yes,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development,Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Science,Yes,Practical,Yes,C/C++,Windows Application Development,CyberSecurity,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,Android App Development,Software Engineering,C/C++
+Science,No,Both,Yes,C/C++,Web Development;Android App Development,CyberSecurity;Web Developement,C/C++
+Science,No,Both,Yes,C/C++,Web Development,Data Science,C/C++
+Science,No,Both,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Science,No,Both,Yes,Python;C/C++,Web Development;Windows Application Development,Data Science;Web Developement,C/C++;Operating System;Data Structure
+Science,Yes,Practical,Yes,C/C++,Android App Development,Software Engineering,C/C++
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Android App Development;Windows Application Development,AI/ML;Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development;Windows Application Development,AI/ML;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,C/C++,Application Development,CyberSecurity,Operating System
+Science,No,Practical,Yes,C/C++,Android App Development,Software Engineering;CyberSecurity,C/C++;Operating System
+Science,Yes,Both,Yes,C/C++,Windows Application Development,Software Engineering;Web Developement,Software Engineering
+Science,No,Both,Yes,Python;C/C++,Web Development;Android App Development,CyberSecurity;Web Developement,Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Application Development,Software Engineering,C/C++
+Science,No,Both,Yes,Python;C/C++,Web Development,Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,C/C++;JavaScript,Application Development,AI/ML;Web Developement,Data Structure
+Science,No,Practical,Yes,C/C++,Web Development;Windows Application Development;Application Development,AI/ML;Software Engineering;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development;Application Development,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System
+Science,No,Both,Yes,Python;C/C++,Web Development,CyberSecurity;Web Developement,C/C++;Operating System
+Science,Yes,Both,Yes,Python;JavaScript,Android App Development;Application Development,CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++;JavaScript,Web Development;Application Development;Utility Software,AI/ML;Data Science;CyberSecurity;Web Developement,C/C++;Operating System
+Science,Yes,Practical,Yes,Python;C/C++,Web Development;Android App Development,Data Science,C/C++;Operating System
+Science,No,Practical,Yes,Python,Web Development,Web Developement,C/C++;Operating System;Data Structure
+Science,Yes,Practical,Yes,C/C++,Windows Application Development,Web Developement,C/C++
+Science,No,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Application Development;Utility Software,Data Science;Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development,Data Science,C/C++
+Science,No,Both,Yes,Python,Application Development,Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Application Development,Data Science;Software Engineering;Web Developement,C/C++;Data Structure
+Science,No,Both,Yes,Python;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python,Application Development,CyberSecurity,Software Engineering
+Science,No,Both,Yes,Python;Java;JavaScript,Web Development;Windows Application Development;Application Development,AI/ML;Data Science;CyberSecurity,C/C++;Operating System
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,No,Theoretical,Yes,Angular JS,Android App Development,AI/ML,C/C++
+Science,No,Practical,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Science,No,Practical,Yes,Python;Java;JavaScript,Android App Development;Application Development,Software Engineering;CyberSecurity,C/C++;Operating System
+Science,No,Both,No,C/C++,Web Development,AI/ML,C/C++
+Science,No,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++
+Commerce,No,Both,No,C/C++,Web Development,AI/ML,Operating System
+Science,Yes,Practical,Yes,Python;C/C++,Web Development;Android App Development;Utility Software,AI/ML;Data Science,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,C/C++,Application Development,Data Science,C/C++
+Science,Yes,Practical,Yes,Python;C/C++,Web Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++,Web Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Java,Utility Software,Software Engineering;CyberSecurity,Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,C/C++,Utility Software,Software Engineering,C/C++
+Commerce,No,Both,Yes,C/C++,Web Development,Web Developement,C/C++;Operating System;Software Engineering
+Science,No,Practical,Yes,JavaScript,Web Development,Data Science,Data Structure
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development,AI/ML;Software Engineering,C/C++;Node JS
+Commerce,No,Practical,Yes,Java,Web Development,Web Developement,C/C++
+Science,No,Both,Yes,Python;C/C++,Web Development;Application Development,AI/ML;CyberSecurity,C/C++;Operating System;Software Engineering
+Commerce,No,Practical,Yes,Java;C/C++,Web Development,CyberSecurity;Web Developement,C/C++;Data Structure
+Science,Yes,Both,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++,Web Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;C/C++;JavaScript,Web Development;Windows Application Development,AI/ML;Data Science,C/C++
+Science,Yes,Practical,Yes,Python;JavaScript;Angular JS,Web Development;Android App Development;Application Development,Software Engineering;Web Developement,C/C++;Data Structure
+Science,Yes,Both,Yes,Java;JavaScript,Web Development;Android App Development;Application Development,Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,JavaScript,Web Development,AI/ML;Web Developement,C/C++;Data Structure
+Commerce,No,Theoretical,Yes,Python;C/C++,Web Development,Software Engineering;CyberSecurity;Web Developement,Operating System;Software Engineering
+Science,Yes,Both,Yes,Java,Web Development,Data Science,C/C++
+Commerce,Yes,Both,Yes,Java,Application Development,Web Developement,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++,Web Development,Web Developement,C/C++
+Science,No,Practical,Yes,Python,Web Development;Android App Development,Software Engineering;Web Developement,C/C++
+Science,No,Both,Yes,C/C++,Android App Development;Application Development,Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development;Windows Application Development,AI/ML;Data Science;CyberSecurity,C/C++;Operating System
+Commerce,Yes,Practical,Yes,JavaScript,Web Development,Web Developement,Data Structure
+Commerce,Yes,Both,Yes,C/C++,Web Development;Utility Software,Software Engineering;Web Developement,C/C++;Operating System;Data Structure
+Science,Yes,Theoretical,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Science,No,Both,Yes,Java,Android App Development,Data Science;Software Engineering;Web Developement,Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;C/C++;JavaScript,Web Development;Android App Development;Application Development,AI/ML;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,C/C++,Application Development,Software Engineering,C/C++
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development,Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Java,Web Development,Web Developement,Data Structure
+Commerce,Yes,Practical,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development;Android App Development,Web Developement,C/C++
+Commerce,Yes,Both,Yes,Java,Android App Development,Web Developement,C/C++
+Science,No,Both,Yes,C/C++,Web Development;Application Development,CyberSecurity;Web Developement,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development,AI/ML;CyberSecurity;Web Developement,C/C++;Data Structure
+Commerce,Yes,Practical,Yes,C/C++;JavaScript,Web Development;Android App Development;Windows Application Development,Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development;Android App Development;Application Development,Web Developement,C/C++;Operating System
+Commerce,No,Theoretical,Yes,C/C++,Web Development;Android App Development,Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,Java;C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Java,Web Development,Web Developement,C/C++
+Commerce,No,Practical,Yes,C/C++,Web Development;Utility Software,Software Engineering;Web Developement,C/C++
+Commerce,No,Practical,Yes,Java,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;Data Science;Software Engineering;Web Developement,C/C++;Operating System;Software Engineering
+Science,No,Both,Yes,Python,Web Development,Data Science,C/C++
+Science,No,Both,Yes,Python,Windows Application Development,AI/ML,C/C++
+Commerce,Yes,Practical,Yes,Java;C/C++,Web Development,AI/ML;Web Developement,C/C++;Operating System;Data Structure
+Commerce,Yes,Practical,Yes,Python;Java;JavaScript;Angular JS,Web Development;Application Development,CyberSecurity;Web Developement,C/C++;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;C/C++,Web Development;Android App Development;Application Development,AI/ML;Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java;C/C++,Web Development;Android App Development;Windows Application Development,Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++
+Science,No,Both,Yes,C/C++,Web Development,AI/ML,C/C++;Operating System
+Science,No,Both,Yes,C/C++,Web Development;Android App Development,Data Science;Software Engineering,C/C++;Operating System
+Science,No,Both,Yes,C/C++,Android App Development,Software Engineering,C/C++
+Science,No,Both,Yes,C/C++,Web Development;Android App Development;Application Development,AI/ML;Web Developement,C/C++;Operating System
+Commerce,No,Both,Yes,C/C++,Utility Software,CyberSecurity,C/C++
+Commerce,No,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;C/C++;JavaScript,Web Development;Android App Development;Application Development,Software Engineering;Web Developement,C/C++;Operating System
+Science,No,Both,Yes,C/C++,Web Development,AI/ML,C/C++;Operating System
+Commerce,No,Both,Yes,C/C++,Web Development;Android App Development,AI/ML;Web Developement,C/C++;Operating System
+Science,No,Both,Yes,C/C++,Web Development,Data Science;Web Developement,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,Web Development,Software Engineering;Web Developement,C/C++;Data Structure
+Commerce,No,Practical,Yes,JavaScript,Android App Development,AI/ML,Data Structure
+Commerce,No,Both,Yes,C/C++,Web Development,AI/ML,C/C++;Operating System
+Commerce,Yes,Practical,Yes,Python,Web Development,Web Developement,C/C++
+Science,No,Both,Yes,Java,Web Development,Data Science,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development;Android App Development,AI/ML;Web Developement,C/C++;Operating System
+Science,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,Web Development;Android App Development,CyberSecurity;Web Developement,C/C++
+Science,Yes,Practical,Yes,Python;C/C++,Web Development,AI/ML,C/C++;Operating System;Software Engineering
+Science,Yes,Both,Yes,C/C++;JavaScript,Web Development;Android App Development;Application Development,Data Science;Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++;JavaScript,Web Development;Windows Application Development;Application Development,Data Science;Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Java,Android App Development;Windows Application Development,AI/ML;Web Developement,Data Structure
+Science,No,Both,Yes,C/C++,Web Development;Android App Development,Data Science;Web Developement,C/C++;Operating System
+Science,No,Both,Yes,C/C++,Android App Development,Software Engineering,C/C++
+Commerce,No,Both,Yes,Python;C/C++,Android App Development;Application Development,CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,Web Development,Data Science,Operating System
+Science,Yes,Practical,Yes,Python,Web Development,AI/ML,C/C++
+Commerce,Yes,Both,Yes,C/C++;JavaScript,Android App Development;Windows Application Development;Application Development,Software Engineering,C/C++
+Science,Yes,Both,Yes,Python;C/C++;JavaScript,Web Development,Data Science,C/C++
+Commerce,No,Practical,Yes,C/C++,Android App Development,Software Engineering,C/C++
+Commerce,Yes,Theoretical,Yes,Python;Java;C/C++,Web Development;Application Development,Software Engineering;CyberSecurity,C/C++;Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development,AI/ML;Web Developement,C/C++;Operating System
+Commerce,Yes,Both,Yes,C/C++,Android App Development,AI/ML,Node JS
+Science,No,Both,Yes,C/C++,Web Development;Windows Application Development;Application Development,AI/ML;Data Science;Web Developement,C/C++;Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++;JavaScript,Web Development;Android App Development;Windows Application Development,Software Engineering;CyberSecurity;Web Developement,C/C++
+Science,No,Both,Yes,Python;C/C++,Android App Development,Data Science;Software Engineering,C/C++;Data Structure
+Science,No,Theoretical,Yes,Python,Android App Development,CyberSecurity,C/C++
+Science,No,Both,Yes,Python;C/C++,Android App Development,Data Science;Software Engineering,C/C++;Data Structure
+Science,Yes,Both,Yes,C/C++,Android App Development,Software Engineering,C/C++
+Science,No,Both,Yes,Python;C/C++,Android App Development,Data Science;Software Engineering,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development,AI/ML,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,C/C++,Application Development,CyberSecurity,C/C++
+Commerce,Yes,Both,Yes,Java,Android App Development,Software Engineering,Software Engineering
+Commerce,Yes,Practical,Yes,Python,Android App Development;Application Development,Data Science,C/C++;Software Engineering
+Science,No,Both,No,C/C++,Web Development,Data Science;Software Engineering;Web Developement,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,Web Development;Android App Development,Web Developement,Operating System
+Commerce,No,Theoretical,Yes,Python;Java;C/C++,Web Development;Android App Development,AI/ML;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,No,Both,Yes,Java,Web Development,Software Engineering,Software Engineering
+Science,No,Practical,Yes,C/C++,Web Development;Android App Development;Application Development,AI/ML;Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,Web Development,Software Engineering,C/C++
+Science,No,Practical,Yes,Python;C/C++,Web Development;Application Development,AI/ML;CyberSecurity,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,Python;Java;C/C++,Web Development;Windows Application Development;Application Development,Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++,Windows Application Development;Application Development,Data Science;Software Engineering,C/C++
+Science,No,Both,Yes,Python;Java;C/C++,Web Development;Utility Software,CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Application Development,Data Science;Software Engineering;CyberSecurity,C/C++
+Science,Yes,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Science,No,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Software Engineering;CyberSecurity,Operating System;Data Structure
+Science,Yes,Both,Yes,Python,Web Development;Windows Application Development;Application Development,Data Science;Web Developement,C/C++
+Science,Yes,Both,Yes,C/C++,Web Development,Data Science,C/C++
+Science,No,Practical,Yes,JavaScript,Web Development,Web Developement,Data Structure
+Science,No,Both,Yes,Python;Java;JavaScript,Web Development;Windows Application Development;Application Development,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,Web Development;Application Development;Utility Software,AI/ML;Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,Web Development,Data Science,C/C++
+Science,No,Practical,Yes,Python,Web Development;Android App Development,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Application Development,Data Science;Web Developement,C/C++;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java,Web Development;Android App Development;Application Development;Utility Software,AI/ML;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,C/C++,Web Development,Web Developement,C/C++;Operating System
+Commerce,Yes,Practical,Yes,Java,Web Development,Web Developement,Operating System
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++
+Commerce,Yes,Practical,Yes,Python;C/C++;JavaScript,Web Development,Data Science;CyberSecurity;Web Developement,Operating System;Data Structure
+Commerce,Yes,Both,Yes,Java;C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development,AI/ML,C/C++;Operating System
+Commerce,Yes,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Science,No,Both,Yes,Python;Java;JavaScript,Android App Development;Windows Application Development;Utility Software,AI/ML;CyberSecurity,C/C++;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Data Structure
+Commerce,Yes,Both,Yes,C/C++,Web Development;Application Development,Software Engineering,C/C++
+Commerce,Yes,Both,Yes,Java;C/C++,Web Development;Android App Development;Application Development,AI/ML;Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,C/C++,Web Development;Android App Development,Data Science,Operating System
+Science,Yes,Both,Yes,Python;C/C++,Web Development;Android App Development;Windows Application Development;Utility Software,Data Science;Software Engineering;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,JavaScript,Web Development,Software Engineering,C/C++
+Science,No,Both,Yes,C/C++,Android App Development;Application Development;Utility Software,AI/ML;Software Engineering;Web Developement,C/C++;Operating System
+Science,Yes,Both,Yes,Java,Android App Development,Software Engineering,Software Engineering
+Science,Yes,Practical,Yes,C/C++,Web Development;Android App Development,CyberSecurity;Web Developement,C/C++;Software Engineering
+Science,Yes,Practical,Yes,Java;C/C++;JavaScript,Web Development,Data Science,C/C++
+Science,No,Both,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Science,Yes,Both,Yes,Python;C/C++,Web Development,Data Science,C/C++;Data Structure
+Science,No,Both,Yes,Python,Application Development;Utility Software,AI/ML;Data Science,Data Structure
+Science,Yes,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,Web Development;Android App Development,Data Science;Software Engineering;CyberSecurity;Web Developement,Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Both,No,Angular JS,Windows Application Development,Web Developement,Software Engineering
+Science,No,Both,Yes,Python,Web Development,Web Developement,Node JS
+Science,No,Practical,Yes,Java,Web Development,Data Science,C/C++
+Science,Yes,Both,Yes,C/C++,Web Development;Android App Development,CyberSecurity,C/C++
+Science,Yes,Both,Yes,Python;Java,Web Development;Application Development,Data Science;CyberSecurity,Software Engineering
+Science,No,Practical,Yes,Java,Android App Development,Software Engineering,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development;Application Development,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,Web Development,Web Developement,C/C++;Data Structure
+Science,No,Practical,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Data Structure;Node JS
+Science,No,Both,Yes,Python;Java;C/C++,Web Development,Software Engineering,C/C++
+Science,No,Practical,Yes,Java,Utility Software,CyberSecurity,C/C++
+Science,Yes,Both,Yes,C/C++,Web Development,Data Science,C/C++
+Science,No,Both,Yes,Python,Web Development,Software Engineering,C/C++
+Science,Yes,Practical,Yes,Python;C/C++,Web Development;Application Development,Data Science;CyberSecurity;Web Developement,C/C++;Operating System
+Science,No,Practical,Yes,Java,Web Development,Software Engineering;CyberSecurity;Web Developement,C/C++
+Science,Yes,Practical,Yes,Python;C/C++;JavaScript,Web Development;Android App Development;Utility Software,AI/ML;Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Science,No,Both,Yes,Python,Application Development,AI/ML,C/C++
+Science,No,Both,Yes,Python;C/C++,Web Development;Android App Development;Application Development,Data Science;Web Developement,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,C/C++,Web Development,Data Science,C/C++
+Science,Yes,Both,Yes,Java,Application Development,Software Engineering,C/C++
+Science,No,Practical,Yes,C/C++,Android App Development,Data Science;Software Engineering,C/C++
+Science,No,Both,No,Python;Java;C/C++;JavaScript,Web Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,Web Development,Data Science,C/C++
+Science,No,Practical,Yes,Python;Java;C/C++,Android App Development,Software Engineering,C/C++
+Science,No,Theoretical,Yes,C/C++,Web Development,Web Developement,C/C++
+Science,Yes,Both,Yes,Java;JavaScript,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Java,Web Development,Data Science,C/C++
+Science,No,Practical,Yes,Java,Web Development,Web Developement,Operating System
+Science,No,Both,No,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Utility Software,AI/ML;Data Science,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python,Web Development,AI/ML,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python,Web Development,Data Science,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development,Data Science;Software Engineering;Web Developement,C/C++;Data Structure
+Science,No,Both,Yes,Python;Java;C/C++;Angular JS,Android App Development;Windows Application Development;Application Development,AI/ML;Data Science;Software Engineering,C/C++;Operating System;Data Structure;Angular JS;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development,Data Science,Data Structure
+Science,No,Practical,Yes,Python;Java;C/C++,Web Development,AI/ML,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,Java,Web Development;Android App Development,Data Science,Data Structure
+Science,Yes,Theoretical,Yes,C/C++,Web Development,Software Engineering,C/C++
+Science,Yes,Both,Yes,Java;JavaScript,Web Development,Data Science;Web Developement,Operating System
+Science,Yes,Both,Yes,Python;Java;C/C++,Web Development;Windows Application Development,AI/ML;Data Science,C/C++
+Science,No,Both,Yes,Python;Java;JavaScript,Web Development;Windows Application Development;Application Development,Software Engineering;Web Developement,C/C++;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++,Web Development,Data Science,C/C++
+Science,Yes,Both,Yes,C/C++,Web Development,Software Engineering,C/C++
+Science,No,Both,No,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Windows Application Development;Application Development,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Node JS;Software Engineering
+Science,No,Both,Yes,Python;Java,Web Development,Web Developement,C/C++;Data Structure
+Science,Yes,Practical,Yes,Java,Web Development,CyberSecurity,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Application Development,Data Science;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;JavaScript,Web Development;Android App Development,AI/ML;Web Developement,Data Structure
+Science,Yes,Practical,No,Python;Java;C/C++,Web Development;Application Development,AI/ML;Data Science;Web Developement,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;Java;C/C++,Web Development,CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Both,Yes,Python;C/C++,Web Development,Software Engineering,C/C++;Data Structure
+Science,No,Both,Yes,Python;C/C++;JavaScript,Application Development;Utility Software,Data Science;CyberSecurity,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Data Structure
+Science,Yes,Theoretical,Yes,JavaScript,Application Development,Software Engineering,Data Structure
+Science,No,Practical,Yes,JavaScript,Web Development,Web Developement,Node JS
+Science,No,Practical,Yes,Python;Java;C/C++,Web Development;Android App Development;Windows Application Development,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Node JS
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,No,Java;C/C++;JavaScript,Web Development,Data Science;Web Developement,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++,Web Development;Android App Development;Windows Application Development,Data Science;CyberSecurity;Web Developement,C/C++
+Science,Yes,Both,Yes,Python;C/C++,Web Development;Windows Application Development,AI/ML;Data Science;CyberSecurity,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,Application Development,Software Engineering,C/C++
+Science,Yes,Both,Yes,C/C++,Android App Development,Software Engineering,Software Engineering
+Science,Yes,Practical,Yes,Java;C/C++,Web Development;Application Development,Data Science;Web Developement,C/C++
+Science,No,Theoretical,Yes,C/C++,Web Development,Data Science,C/C++
+Science,No,Both,Yes,C/C++,Web Development,Data Science,C/C++
+Science,No,Practical,Yes,C/C++,Utility Software,AI/ML,C/C++;Operating System
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;Data Science;Web Developement,C/C++;Operating System;Data Structure;Node JS
+Science,No,Both,Yes,Python;Java;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++,Web Development;Android App Development;Application Development,Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Science,Yes,Both,Yes,Python;C/C++,Web Development,Data Science;CyberSecurity,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,Java;C/C++,Web Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,Web Development,Data Science;Web Developement,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,Java,Web Development,AI/ML;Data Science,C/C++
+Science,Yes,Practical,Yes,Python,Web Development,Data Science,Data Structure
+Science,No,Practical,No,Python;JavaScript,Android App Development,CyberSecurity,Operating System
+Science,Yes,Practical,Yes,Python;C/C++,Web Development;Utility Software,AI/ML;CyberSecurity,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;JavaScript;Angular JS,Web Development;Application Development,AI/ML;Data Science;Web Developement,Operating System;Software Engineering
+Science,No,Both,Yes,C/C++;Angular JS,Web Development;Android App Development;Application Development;Utility Software,Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,No,Java;JavaScript,Web Development,Software Engineering;Web Developement,Operating System;Data Structure
+Science,No,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,Web Development;Android App Development,Web Developement,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript,Web Development,AI/ML;Software Engineering,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;C/C++,Web Development;Android App Development,Software Engineering,C/C++;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,Application Development,Software Engineering,C/C++;Operating System
+Science,Yes,Both,Yes,Java,Web Development,Software Engineering,Data Structure
+Science,No,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++
+Science,No,Both,Yes,C/C++,Web Development,Data Science;Web Developement,C/C++
+Science,Yes,Both,Yes,Java;C/C++,Android App Development;Application Development;Utility Software,Software Engineering,C/C++
+Science,No,Both,Yes,Java;C/C++,Web Development;Android App Development,Software Engineering;CyberSecurity,C/C++;Operating System;Software Engineering
+Science,No,Both,Yes,Python,Web Development,AI/ML;Data Science;Web Developement,Data Structure
+Science,Yes,Practical,Yes,JavaScript,Web Development,AI/ML;CyberSecurity;Web Developement,C/C++;Data Structure
+Science,No,Practical,Yes,C/C++,Web Development;Android App Development;Utility Software,AI/ML;Data Science;CyberSecurity,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Windows Application Development;Application Development,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,C/C++,Web Development;Android App Development;Application Development,Data Science,Data Structure
+Science,Yes,Practical,Yes,Python;JavaScript,Application Development,Data Science;Software Engineering,Data Structure
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development;Application Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development;Application Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development;Application Development,Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,Web Development;Application Development,Software Engineering;Web Developement,C/C++;Software Engineering
+Science,Yes,Theoretical,Yes,Python;C/C++,Windows Application Development;Application Development,Data Science;Software Engineering,C/C++;Operating System;Data Structure
+Science,Yes,Theoretical,Yes,Python,Web Development,Software Engineering,C/C++
+Science,No,Theoretical,Yes,Python,Web Development,Data Science,C/C++
+Science,Yes,Both,Yes,Python,Android App Development,Data Science,Data Structure
+Commerce,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development,Data Science;Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Web Developement,C/C++;Software Engineering
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development;Application Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development;Application Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development;Application Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development,Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++;JavaScript,Web Development;Android App Development,Software Engineering;Web Developement,C/C++;Operating System;Angular JS;Software Engineering
+Science,No,Both,No,C/C++,Web Development;Android App Development;Application Development,Data Science;Software Engineering;Web Developement,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,Web Development,Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Application Development,Software Engineering;Web Developement,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;Java;C/C++,Web Development;Android App Development;Windows Application Development,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering,C/C++
+Science,No,Both,No,C/C++,Web Development,Software Engineering,C/C++
+Commerce,Yes,Practical,Yes,Python;Java;C/C++,Web Development;Android App Development,AI/ML;Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,C/C++;JavaScript,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Python;Java,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++
+Commerce,No,Practical,Yes,Python;C/C++,Web Development,AI/ML;CyberSecurity,C/C++;Operating System;Data Structure;Node JS
+Commerce,No,Practical,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development,AI/ML;Data Science;CyberSecurity;Web Developement,C/C++;Data Structure;Node JS;Software Engineering
+Commerce,No,Practical,Yes,Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;Software Engineering;CyberSecurity;Web Developement,C/C++;Data Structure
+Commerce,No,Practical,Yes,C/C++,Web Development,Web Developement,Operating System
+Commerce,No,Both,Yes,Python;Java,Android App Development,AI/ML;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,No,Java;JavaScript,Android App Development,CyberSecurity,Data Structure
+Commerce,Yes,Both,Yes,Java,Web Development,Data Science;CyberSecurity,Data Structure;Angular JS;Node JS
+Commerce,No,Both,Yes,Python,Application Development,Data Science,Data Structure
+Commerce,Yes,Both,No,Python;Java;C/C++,Web Development,Software Engineering,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,CyberSecurity,C/C++
+Commerce,No,Both,Yes,C/C++,Web Development;Application Development,AI/ML;Data Science;Web Developement,C/C++;Operating System;Data Structure
+Commerce,No,Theoretical,No,C/C++,Utility Software,CyberSecurity,C/C++
+Commerce,Yes,Both,Yes,JavaScript,Web Development,Web Developement,C/C++
+Commerce,No,Both,Yes,C/C++,Application Development,CyberSecurity,C/C++;Data Structure
+Commerce,Yes,Both,Yes,C/C++,Application Development,CyberSecurity,C/C++;Data Structure
+Commerce,Yes,Practical,Yes,Python,Web Development,Web Developement,Operating System;Data Structure
+Commerce,Yes,Both,Yes,C/C++;JavaScript,Android App Development;Windows Application Development;Utility Software,CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,Yes,Both,Yes,C/C++,Web Development,Software Engineering,C/C++
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development,CyberSecurity;Web Developement,C/C++
+Commerce,No,Both,No,Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development,AI/ML;Data Science;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,No,C/C++,Android App Development,Data Science,Operating System
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;CyberSecurity,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,JavaScript,Application Development,CyberSecurity,C/C++
+Commerce,No,Practical,Yes,Python,Web Development,AI/ML;Data Science;CyberSecurity,Operating System;Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development;Android App Development,Software Engineering;Web Developement,C/C++
+Commerce,Yes,Both,Yes,C/C++,Web Development,AI/ML;Data Science;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,Application Development,Web Developement,C/C++;Data Structure
+Commerce,Yes,Both,Yes,Python,Application Development,AI/ML;Data Science;Software Engineering;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,C/C++,Android App Development,Software Engineering,C/C++
+Commerce,Yes,Both,Yes,Python,Application Development,Web Developement,Operating System
+Commerce,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development,CyberSecurity;Web Developement,C/C++;Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development,Data Science;CyberSecurity;Web Developement,C/C++
+Commerce,Yes,Both,Yes,Java,Android App Development,Software Engineering,Software Engineering
+Commerce,No,Practical,Yes,Python,Web Development,AI/ML,Software Engineering
+Commerce,Yes,Both,Yes,Java,Android App Development,Data Science,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Java;C/C++;JavaScript;Angular JS,Web Development,AI/ML,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Theoretical,No,Python,Windows Application Development,AI/ML,Data Structure
+Commerce,Yes,Both,Yes,Java;C/C++;JavaScript;Angular JS,Web Development,AI/ML,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,Yes,Practical,Yes,C/C++;JavaScript,Web Development;Android App Development;Application Development,AI/ML;CyberSecurity;Web Developement,Operating System
+Commerce,Yes,Practical,Yes,Python;Java;Angular JS,Web Development;Android App Development;Application Development,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,C/C++,Application Development,Software Engineering,C/C++;Operating System;Data Structure;Node JS;Software Engineering
+Commerce,No,Both,Yes,Python,Web Development;Android App Development,Software Engineering,Angular JS
+Commerce,No,Practical,Yes,C/C++,Web Development;Android App Development,AI/ML;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,Yes,Both,Yes,Python,Web Development,Web Developement,Operating System
+Commerce,Yes,Practical,Yes,Python;Java;C/C++,Web Development;Android App Development;Windows Application Development,AI/ML;Data Science;Web Developement,C/C++;Operating System
+Commerce,Yes,Practical,Yes,Angular JS,Web Development,CyberSecurity,C/C++
+Commerce,No,Both,Yes,Python;Java;C/C++,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++;JavaScript,Web Development;Application Development;Utility Software,Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java;JavaScript,Web Development;Application Development,AI/ML;Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Practical,Yes,Java,Web Development,Data Science,Operating System
+Commerce,Yes,Practical,Yes,Java,Android App Development,Data Science,C/C++
+Commerce,No,Both,Yes,Python,Android App Development,Data Science,Data Structure
+Commerce,Yes,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,Yes,Practical,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,Yes,Both,Yes,C/C++,Web Development,Web Developement,C/C++
+Commerce,No,Practical,Yes,C/C++,Web Development;Application Development,Data Science,C/C++
+Commerce,No,Both,Yes,Java,Web Development;Android App Development,AI/ML;Data Science,C/C++;Operating System;Data Structure
+Science,Yes,Both,Yes,Python;C/C++;JavaScript,Android App Development;Application Development,Data Science;CyberSecurity;Web Developement,C/C++;Data Structure;Angular JS;Software Engineering
+Commerce,Yes,Practical,Yes,Python,Android App Development;Application Development,Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Both,Yes,C/C++,Application Development,Data Science;Software Engineering,C/C++
+Science,Yes,Theoretical,Yes,C/C++,Android App Development,CyberSecurity,C/C++
+Commerce,No,Theoretical,No,Java,Application Development,Web Developement,Data Structure
+Science,No,Both,Yes,Python;C/C++,Web Development;Android App Development;Application Development,AI/ML;Web Developement,C/C++
+Commerce,Yes,Practical,Yes,Python,Web Development,Data Science,Software Engineering
+Commerce,No,Theoretical,Yes,Java,Utility Software,Data Science;Software Engineering,C/C++
+Commerce,No,Both,Yes,Python,Android App Development,AI/ML,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,Java,Android App Development,Software Engineering,C/C++
+Commerce,Yes,Practical,Yes,C/C++,Web Development,Data Science,Operating System
+Commerce,No,Practical,Yes,C/C++;JavaScript,Web Development;Application Development,Data Science,C/C++
+Science,No,Practical,Yes,C/C++,Web Development,Web Developement,Software Engineering
+Commerce,No,Practical,Yes,C/C++,Application Development,Web Developement,C/C++
+Science,No,Both,Yes,Python;Java;C/C++,Web Development;Windows Application Development;Utility Software,Data Science;Software Engineering;CyberSecurity;Web Developement,Operating System
+Commerce,No,Practical,Yes,C/C++,Android App Development,AI/ML,C/C++
+Science,No,Both,No,C/C++,Web Development,Data Science,C/C++
+Science,No,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development,AI/ML;Software Engineering;Web Developement,C/C++
+Commerce,No,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;CyberSecurity,C/C++
+Commerce,Yes,Both,Yes,C/C++,Web Development,CyberSecurity,C/C++
+Commerce,Yes,Both,Yes,Python,Utility Software,Data Science,Angular JS;Node JS
+Science,No,Both,Yes,C/C++,Windows Application Development,Software Engineering;CyberSecurity;Web Developement,Operating System;Software Engineering
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development,Web Developement,C/C++
+Science,No,Practical,Yes,C/C++,Web Development;Android App Development;Application Development,AI/ML;Data Science;CyberSecurity,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,Java;C/C++,Web Development,Web Developement,C/C++
+Commerce,Yes,Both,Yes,C/C++,Web Development;Android App Development,Software Engineering;CyberSecurity,Operating System;Data Structure;Software Engineering
+Science,No,Theoretical,Yes,C/C++,Application Development,CyberSecurity,Data Structure
+Commerce,No,Both,Yes,C/C++,Application Development,CyberSecurity,Data Structure
+Science,Yes,Both,Yes,C/C++,Application Development,Data Science;Software Engineering,C/C++;Operating System
+Commerce,No,Both,Yes,C/C++;JavaScript,Web Development,CyberSecurity;Web Developement,C/C++
+Science,No,Both,No,C/C++,Web Development,Data Science,C/C++
+Science,Yes,Theoretical,Yes,Java,Android App Development,CyberSecurity,C/C++
+Commerce,Yes,Both,Yes,C/C++;JavaScript,Web Development,CyberSecurity;Web Developement,C/C++;Operating System
+Commerce,Yes,Both,Yes,C/C++,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++
+Commerce,No,Practical,Yes,Python;C/C++;JavaScript,Web Development;Android App Development;Windows Application Development,Software Engineering;CyberSecurity;Web Developement,C/C++;Data Structure
+Science,Yes,Practical,Yes,Python,Application Development;Utility Software,Software Engineering;CyberSecurity,C/C++;Software Engineering
+Commerce,No,Both,Yes,C/C++,Web Development,Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,Android App Development,AI/ML,C/C++
+Commerce,No,Both,Yes,C/C++,Web Development;Android App Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;CyberSecurity;Web Developement,C/C++
+Commerce,Yes,Both,Yes,Java,Web Development,Software Engineering,Data Structure
+Commerce,Yes,Both,Yes,C/C++,Application Development,Software Engineering,Software Engineering
+Commerce,No,Theoretical,Yes,Python,Web Development,Web Developement,C/C++
+Commerce,No,Practical,Yes,JavaScript,Web Development,CyberSecurity,C/C++
+Science,No,Both,Yes,C/C++,Android App Development,Data Science;Software Engineering;CyberSecurity,C/C++;Operating System;Data Structure;Node JS
+Science,No,Both,Yes,C/C++,Web Development;Application Development,AI/ML;Data Science;Web Developement,C/C++
+Science,No,Both,Yes,Java;C/C++;JavaScript,Web Development;Android App Development;Application Development,AI/ML;Data Science;Web Developement,C/C++;Data Structure
+Commerce,No,Both,Yes,C/C++;JavaScript;Angular JS,Web Development;Windows Application Development;Application Development;Utility Software,Data Science;CyberSecurity,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,Web Development,Software Engineering,C/C++
+Science,No,Both,Yes,C/C++,Web Development,AI/ML,Data Structure
+Commerce,Yes,Both,Yes,Python;Angular JS,Web Development;Android App Development;Windows Application Development,CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Angular JS,Web Development;Android App Development;Windows Application Development,CyberSecurity;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;Java;C/C++,Web Development;Android App Development;Application Development;Utility Software,AI/ML;Data Science;Software Engineering;Web Developement,C/C++;Data Structure
+Commerce,No,Both,Yes,C/C++,Web Development;Application Development,AI/ML;Data Science;Web Developement,C/C++;Operating System;Data Structure
+Science,Yes,Both,Yes,C/C++,Web Development;Windows Application Development,Software Engineering;Web Developement,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,No,C/C++,Android App Development,AI/ML,C/C++
+Science,Yes,Both,Yes,Java,Web Development,Data Science,C/C++

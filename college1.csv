@@ -1,0 +1,562 @@
+Faculty,Are you currently taking any add-on or extra cocurricular courses outside of your major requirements?,Do you prefer courses that are more theoretical or practical in nature?,Are you interested to learn add on courses?,Which Programming Languages are you Proficient in?,
+Commerce,Both,Yes,C/C++;JavaScript;Angular JS,Web Development;Android App Development;Windows Application Development;Application Development;Utility Software,
+Science,Yes,Both,Yes,Python;C/C++,C/C++;Operating System
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,Python;Java,Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,Python,Data Structure
+Commerce,Yes,Practical,Yes,Python,Angular JS
+Commerce,Yes,Both,Yes,Java,Operating System;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,C/C++
+Commerce,Yes,Practical,Yes,C/C++,Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,Yes,Practical,Yes,Python;C/C++,C/C++;Data Structure
+Commerce,No,Both,Yes,C/C++,C/C++
+Commerce,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Theoretical,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Java,Angular JS
+Commerce,Yes,Practical,Yes,Python;Java,C/C++
+Commerce,No,Both,Yes,Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++;JavaScript,C/C++;Software Engineering
+Commerce,Yes,Theoretical,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,Python,Data Structure
+Commerce,No,Both,Yes,Java,Data Structure
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Node JS;Software Engineering
+Commerce,No,Both,Yes,JavaScript,C/C++
+Commerce,Yes,Practical,Yes,Java;C/C++,C/C++
+Commerce,Yes,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,Operating System;Data Structure;Angular JS;Node JS
+Commerce,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Node JS;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java,C/C++;Data Structure
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++
+Commerce,Yes,Both,Yes,Python,C/C++
+Commerce,Yes,Practical,Yes,Java;C/C++;JavaScript,Operating System
+Commerce,No,Practical,Yes,Python,C/C++;Operating System;Data Structure;Angular JS;Node JS
+Commerce,No,Both,Yes,C/C++,C/C++;Data Structure
+Commerce,Yes,Both,Yes,Python;Java,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python,C/C++;Operating System;Data Structure
+Commerce,Yes,Practical,Yes,Java;C/C++;JavaScript,Operating System
+Commerce,No,Practical,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++;JavaScript,C/C++;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,C/C++,Operating System
+Commerce,No,Both,Yes,Java;C/C++;JavaScript,C/C++
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,Data Structure
+Commerce,Yes,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java,C/C++
+Science,No,Both,Yes,Python;Java,C/C++;Operating System;Data Structure
+Commerce,No,Practical,Yes,Python;Java;JavaScript,Operating System;Angular JS;Node JS
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,Yes,Theoretical,Yes,Java,Data Structure
+Science,Yes,Practical,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python;C/C++,C/C++;Operating System;Software Engineering
+Commerce,Yes,Both,Yes,Python,Software Engineering
+Science,Yes,Theoretical,Yes,Python,C/C++
+Commerce,No,Practical,Yes,C/C++;JavaScript,C/C++;Operating System
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,Java,Software Engineering
+Commerce,No,Both,Yes,C/C++,Software Engineering
+Commerce,Yes,Both,Yes,Python;C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Commerce,Yes,Both,Yes,Python,Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++;Data Structure
+Science,Yes,Both,Yes,Python,Software Engineering
+Commerce,Yes,Both,No,Python,C/C++;Node JS;Software Engineering
+Commerce,Yes,Both,Yes,Python;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,Java;C/C++;JavaScript,C/C++
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++;JavaScript,C/C++;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,C/C++,Data Structure
+Science,Yes,Theoretical,Yes,Python,Software Engineering
+Science,Yes,Both,Yes,Python,C/C++
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,No,Practical,Yes,Python,Operating System
+Commerce,Yes,Practical,Yes,Java,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,C/C++,C/C++
+Commerce,No,Practical,Yes,C/C++,C/C++
+Science,Yes,Practical,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,Python,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Theoretical,Yes,Python,Software Engineering
+Science,No,Both,Yes,Python;C/C++;JavaScript,C/C++;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Java;C/C++;JavaScript,C/C++;Operating System
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++,Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,C/C++
+Science,No,Practical,No,C/C++,C/C++
+Commerce,Yes,Both,Yes,Java,C/C++;Operating System;Data Structure;Angular JS;Software Engineering
+Commerce,Yes,Both,Yes,Java,C/C++;Angular JS;Node JS
+Commerce,Yes,Both,Yes,Python,Angular JS;Node JS
+Science,No,Both,Yes,C/C++,C/C++
+Commerce,No,Practical,Yes,C/C++,C/C++;Operating System;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,Data Structure
+Commerce,Yes,Both,Yes,Java;C/C++,C/C++;Operating System;Software Engineering
+Commerce,Yes,Practical,Yes,Java,C/C++;Operating System;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Practical,Yes,Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Angular JS;Software Engineering
+Science,No,Both,Yes,Python;C/C++;JavaScript,C/C++
+Science,No,Both,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Software Engineering
+Commerce,Yes,Both,Yes,Python,C/C++
+Commerce,No,Both,Yes,Java,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,Yes,Both,No,C/C++,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,C/C++
+Science,Yes,Practical,Yes,C/C++,C/C++;Data Structure
+Science,No,Practical,Yes,C/C++,C/C++;Operating System;Data Structure
+Commerce,Yes,Practical,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Practical,Yes,Java,Operating System;Data Structure
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,C/C++,Operating System
+Commerce,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,No,Practical,Yes,Python;Java,C/C++
+Commerce,No,Practical,No,Python,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Java,Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++,C/C++;Data Structure
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,Yes,Practical,Yes,Angular JS,C/C++
+Commerce,Yes,Both,Yes,Java,C/C++
+Commerce,Yes,Both,Yes,Python,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Theoretical,Yes,Python;C/C++,C/C++;Data Structure
+Science,No,Practical,Yes,Python,C/C++
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Theoretical,Yes,Python,Operating System
+Science,Yes,Both,Yes,C/C++,C/C++;Operating System;Data Structure
+Science,Yes,Practical,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python;C/C++,C/C++;Operating System;Data Structure
+Science,Yes,Practical,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,C/C++,Operating System
+Science,No,Practical,Yes,C/C++,C/C++;Operating System
+Science,Yes,Both,Yes,C/C++,Software Engineering
+Science,No,Both,Yes,Python;C/C++,Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python;C/C++,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,C/C++;JavaScript,Data Structure
+Science,No,Practical,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Science,No,Both,Yes,Python;C/C++,C/C++;Operating System
+Science,Yes,Both,Yes,Python;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++;JavaScript,C/C++;Operating System
+Science,Yes,Practical,Yes,Python;C/C++,C/C++;Operating System
+Science,No,Practical,Yes,Python,C/C++;Operating System;Data Structure
+Science,Yes,Practical,Yes,C/C++,C/C++
+Science,No,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,C/C++;Data Structure
+Science,No,Both,Yes,Python;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python,Software Engineering
+Science,No,Both,Yes,Python;Java;JavaScript,C/C++;Operating System
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,No,Theoretical,Yes,Angular JS,C/C++
+Science,No,Practical,Yes,C/C++,C/C++
+Science,No,Practical,Yes,Python;Java;JavaScript,C/C++;Operating System
+Science,No,Both,No,C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Commerce,No,Both,No,C/C++,Operating System
+Science,Yes,Practical,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,C/C++,C/C++
+Science,Yes,Practical,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Java,Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Software Engineering
+Science,No,Practical,Yes,JavaScript,Data Structure
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Node JS
+Commerce,No,Practical,Yes,Java,C/C++
+Science,No,Both,Yes,Python;C/C++,C/C++;Operating System;Software Engineering
+Commerce,No,Practical,Yes,Java;C/C++,C/C++;Data Structure
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;C/C++;JavaScript,C/C++
+Science,Yes,Practical,Yes,Python;JavaScript;Angular JS,C/C++;Data Structure
+Science,Yes,Both,Yes,Java;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,JavaScript,C/C++;Data Structure
+Commerce,No,Theoretical,Yes,Python;C/C++,Operating System;Software Engineering
+Science,Yes,Both,Yes,Java,C/C++
+Commerce,Yes,Both,Yes,Java,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++,C/C++
+Science,No,Practical,Yes,Python,C/C++
+Science,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Commerce,Yes,Practical,Yes,JavaScript,Data Structure
+Commerce,Yes,Both,Yes,C/C++,C/C++;Operating System;Data Structure
+Science,Yes,Theoretical,Yes,C/C++,C/C++
+Science,No,Both,Yes,Java,Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;C/C++;JavaScript,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Java,Data Structure
+Commerce,Yes,Practical,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++
+Commerce,Yes,Both,Yes,Java,C/C++
+Science,No,Both,Yes,C/C++,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,C/C++;Data Structure
+Commerce,Yes,Practical,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Commerce,No,Theoretical,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Java,C/C++
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,No,Practical,Yes,Java,C/C++;Operating System;Software Engineering
+Science,No,Both,Yes,Python,C/C++
+Science,No,Both,Yes,Python,C/C++
+Commerce,Yes,Practical,Yes,Java;C/C++,C/C++;Operating System;Data Structure
+Commerce,Yes,Practical,Yes,Python;Java;JavaScript;Angular JS,C/C++;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java;C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Commerce,No,Both,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;C/C++;JavaScript,C/C++;Operating System
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System
+Science,No,Both,Yes,C/C++,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,C/C++;Data Structure
+Commerce,No,Practical,Yes,JavaScript,Data Structure
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System
+Commerce,Yes,Practical,Yes,Python,C/C++
+Science,No,Both,Yes,Java,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Science,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,C/C++
+Science,Yes,Practical,Yes,Python;C/C++,C/C++;Operating System;Software Engineering
+Science,Yes,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Java,Data Structure
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Science,No,Both,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,Operating System
+Science,Yes,Practical,Yes,Python,C/C++
+Commerce,Yes,Both,Yes,C/C++;JavaScript,C/C++
+Science,Yes,Both,Yes,Python;C/C++;JavaScript,C/C++
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,Yes,Theoretical,Yes,Python;Java;C/C++,C/C++;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System
+Commerce,Yes,Both,Yes,C/C++,Node JS
+Science,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++;JavaScript,C/C++
+Science,No,Both,Yes,Python;C/C++,C/C++;Data Structure
+Science,No,Theoretical,Yes,Python,C/C++
+Science,No,Both,Yes,Python;C/C++,C/C++;Data Structure
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,Java,Software Engineering
+Commerce,Yes,Practical,Yes,Python,C/C++;Software Engineering
+Science,No,Both,No,C/C++,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,Operating System
+Commerce,No,Theoretical,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,Java,Software Engineering
+Science,No,Practical,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,No,Practical,Yes,Python;C/C++,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++,C/C++
+Science,No,Both,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript,C/C++
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,No,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,Operating System;Data Structure
+Science,Yes,Both,Yes,Python,C/C++
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,No,Practical,Yes,JavaScript,Data Structure
+Science,No,Both,Yes,Python;Java;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,No,Practical,Yes,Python,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,C/C++,C/C++;Operating System
+Commerce,Yes,Practical,Yes,Java,Operating System
+Commerce,Yes,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++
+Commerce,Yes,Practical,Yes,Python;C/C++;JavaScript,Operating System;Data Structure
+Commerce,Yes,Both,Yes,Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python;Java;JavaScript,C/C++;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Data Structure
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,C/C++,Operating System
+Science,Yes,Both,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,JavaScript,C/C++
+Science,No,Both,Yes,C/C++,C/C++;Operating System
+Science,Yes,Both,Yes,Java,Software Engineering
+Science,Yes,Practical,Yes,C/C++,C/C++;Software Engineering
+Science,Yes,Practical,Yes,Java;C/C++;JavaScript,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Python;C/C++,C/C++;Data Structure
+Science,No,Both,Yes,Python,Data Structure
+Science,Yes,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Both,No,Angular JS,Software Engineering
+Science,No,Both,Yes,Python,Node JS
+Science,No,Practical,Yes,Java,C/C++
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Python;Java,Software Engineering
+Science,No,Practical,Yes,Java,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,C/C++;Data Structure
+Science,No,Practical,Yes,C/C++,C/C++;Data Structure;Node JS
+Science,No,Both,Yes,Python;Java;C/C++,C/C++
+Science,No,Practical,Yes,Java,C/C++
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python,C/C++
+Science,Yes,Practical,Yes,Python;C/C++,C/C++;Operating System
+Science,No,Practical,Yes,Java,C/C++
+Science,Yes,Practical,Yes,Python;C/C++;JavaScript,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python,C/C++
+Science,No,Both,Yes,Python;C/C++,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Java,C/C++
+Science,No,Practical,Yes,C/C++,C/C++
+Science,No,Both,No,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,C/C++
+Science,No,Practical,Yes,Python;Java;C/C++,C/C++
+Science,No,Theoretical,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Java;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Java,C/C++
+Science,No,Practical,Yes,Java,Operating System
+Science,No,Both,No,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,C/C++;Data Structure
+Science,No,Both,Yes,Python;Java;C/C++;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Software Engineering
+Science,No,Both,Yes,C/C++,Data Structure
+Science,No,Practical,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure
+Science,No,Practical,Yes,Java,Data Structure
+Science,Yes,Theoretical,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Java;JavaScript,Operating System
+Science,Yes,Both,Yes,Python;Java;C/C++,C/C++
+Science,No,Both,Yes,Python;Java;JavaScript,C/C++;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++,C/C++
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,No,Both,No,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Node JS;Software Engineering
+Science,No,Both,Yes,Python;Java,C/C++;Data Structure
+Science,Yes,Practical,Yes,Java,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;JavaScript,Data Structure
+Science,Yes,Practical,No,Python;Java;C/C++,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Both,Yes,Python;C/C++,C/C++;Data Structure
+Science,No,Both,Yes,Python;C/C++;JavaScript,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++,C/C++;Data Structure
+Science,Yes,Theoretical,Yes,JavaScript,Data Structure
+Science,No,Practical,Yes,JavaScript,Node JS
+Science,No,Practical,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure;Node JS
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,No,Java;C/C++;JavaScript,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++,C/C++
+Science,Yes,Both,Yes,Python;C/C++,C/C++;Data Structure
+Science,No,Both,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,C/C++,Software Engineering
+Science,Yes,Practical,Yes,Java;C/C++,C/C++
+Science,No,Theoretical,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Practical,Yes,C/C++,C/C++;Operating System
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Node JS
+Science,No,Both,Yes,Python;Java;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure
+Science,Yes,Both,Yes,Python;C/C++,C/C++;Operating System;Data Structure
+Science,No,Both,Yes,Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,Java,C/C++
+Science,Yes,Practical,Yes,Python,Data Structure
+Science,No,Practical,No,Python;JavaScript,Operating System
+Science,Yes,Practical,Yes,Python;C/C++,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;JavaScript;Angular JS,Operating System;Software Engineering
+Science,No,Both,Yes,C/C++;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,No,Java;JavaScript,Operating System;Data Structure
+Science,No,Theoretical,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;C/C++,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,Yes,Python;C/C++,C/C++;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,C/C++;Operating System
+Science,Yes,Both,Yes,Java,Data Structure
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Java;C/C++,C/C++
+Science,No,Both,Yes,Java;C/C++,C/C++;Operating System;Software Engineering
+Science,No,Both,Yes,Python,Data Structure
+Science,Yes,Practical,Yes,JavaScript,C/C++;Data Structure
+Science,No,Practical,Yes,C/C++,C/C++
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,C/C++,Data Structure
+Science,Yes,Practical,Yes,Python;JavaScript,Data Structure
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,C/C++;Software Engineering
+Science,Yes,Theoretical,Yes,Python;C/C++,C/C++;Operating System;Data Structure
+Science,Yes,Theoretical,Yes,Python,C/C++
+Science,No,Theoretical,Yes,Python,C/C++
+Science,Yes,Both,Yes,Python,Data Structure
+Commerce,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,C/C++,C/C++;Software Engineering
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Practical,Yes,Python;C/C++;JavaScript,C/C++;Operating System;Angular JS;Software Engineering
+Science,No,Both,No,C/C++,C/C++;Operating System;Data Structure
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,Python;Java;C/C++;JavaScript,C/C++;Data Structure
+Science,Yes,Both,Yes,Python;Java;C/C++,C/C++;Data Structure;Software Engineering
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,No,C/C++,C/C++
+Commerce,Yes,Practical,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,Python;Java,C/C++
+Commerce,No,Practical,Yes,Python;C/C++,C/C++;Operating System;Data Structure;Node JS
+Commerce,No,Practical,Yes,Python;Java;C/C++;JavaScript,C/C++;Data Structure;Node JS;Software Engineering
+Commerce,No,Practical,Yes,Java;C/C++;JavaScript;Angular JS,C/C++;Data Structure
+Commerce,No,Practical,Yes,C/C++,Operating System
+Commerce,No,Both,Yes,Python;Java,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,No,Java;JavaScript,Data Structure
+Commerce,Yes,Both,Yes,Java,Data Structure;Angular JS;Node JS
+Commerce,No,Both,Yes,Python,Data Structure
+Commerce,Yes,Both,No,Python;Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,JavaScript;Angular JS,C/C++
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure
+Commerce,No,Theoretical,No,C/C++,C/C++
+Commerce,Yes,Both,Yes,JavaScript,C/C++
+Commerce,No,Both,Yes,C/C++,C/C++;Data Structure
+Commerce,Yes,Both,Yes,C/C++,C/C++;Data Structure
+Commerce,Yes,Practical,Yes,Python,Operating System;Data Structure
+Commerce,Yes,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++
+Commerce,No,Both,No,Java;C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,No,C/C++,Operating System
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,JavaScript,C/C++
+Commerce,No,Practical,Yes,Python,Operating System;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++,C/C++;Data Structure
+Commerce,Yes,Both,Yes,Python,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,Python,Operating System
+Commerce,Yes,Practical,Yes,Python;Java;C/C++;JavaScript,C/C++;Operating System;Data Structure
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,Java,Software Engineering
+Commerce,No,Practical,Yes,Python,Software Engineering
+Commerce,Yes,Both,Yes,Java,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Theoretical,No,Python,Data Structure
+Commerce,Yes,Both,Yes,Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,Yes,Practical,Yes,C/C++;JavaScript,Operating System
+Commerce,Yes,Practical,Yes,Python;Java;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,C/C++,C/C++;Operating System;Data Structure;Node JS;Software Engineering
+Commerce,No,Both,Yes,Python,Angular JS
+Commerce,No,Practical,Yes,C/C++,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,Yes,Both,Yes,Python,Operating System
+Commerce,Yes,Practical,Yes,Python;Java;C/C++,C/C++;Operating System
+Commerce,Yes,Practical,Yes,Angular JS,C/C++
+Commerce,No,Both,Yes,Python;Java;C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,C/C++;JavaScript,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Python;Java;JavaScript,C/C++;Operating System;Data Structure;Angular JS;Node JS
+Commerce,No,Both,Yes,Python;Java;C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Commerce,No,Practical,Yes,Java,Operating System
+Commerce,Yes,Practical,Yes,Java,C/C++
+Commerce,No,Both,Yes,Python,Data Structure
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,Yes,Practical,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,No,Practical,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,Java,C/C++;Operating System;Data Structure
+Science,Yes,Both,Yes,Python;C/C++;JavaScript,C/C++;Data Structure;Angular JS;Software Engineering
+Commerce,Yes,Practical,Yes,Python,C/C++;Operating System;Data Structure;Angular JS;Node JS;Software Engineering
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,Yes,Theoretical,Yes,C/C++,C/C++
+Commerce,No,Theoretical,No,Java,Data Structure
+Science,No,Both,Yes,Python;C/C++,C/C++
+Commerce,Yes,Practical,Yes,Python,Software Engineering
+Commerce,No,Theoretical,Yes,Java,C/C++
+Commerce,No,Both,Yes,Python,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Practical,Yes,Java,C/C++
+Commerce,Yes,Practical,Yes,C/C++,Operating System
+Commerce,No,Practical,Yes,C/C++;JavaScript,C/C++
+Science,No,Practical,Yes,C/C++,Software Engineering
+Commerce,No,Practical,Yes,C/C++,C/C++
+Science,No,Both,Yes,Python;Java;C/C++,Operating System
+Commerce,No,Practical,Yes,C/C++,C/C++
+Science,No,Both,No,C/C++,C/C++
+Science,No,Both,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,Python,Angular JS;Node JS
+Science,No,Both,Yes,C/C++,Operating System;Software Engineering
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++
+Science,No,Practical,Yes,C/C++,C/C++;Operating System;Data Structure
+Commerce,Yes,Both,Yes,Java;C/C++,C/C++
+Commerce,Yes,Both,Yes,C/C++,Operating System;Data Structure;Software Engineering
+Science,No,Theoretical,Yes,C/C++,Data Structure
+Commerce,No,Both,Yes,C/C++,Data Structure
+Science,Yes,Both,Yes,C/C++,C/C++;Operating System
+Commerce,No,Both,Yes,C/C++;JavaScript,C/C++
+Science,No,Both,No,C/C++,C/C++
+Science,Yes,Theoretical,Yes,Java,C/C++
+Commerce,Yes,Both,Yes,C/C++;JavaScript,C/C++;Operating System
+Commerce,Yes,Both,Yes,C/C++,C/C++
+Commerce,No,Practical,Yes,Python;C/C++;JavaScript,C/C++;Data Structure
+Science,Yes,Practical,Yes,Python,C/C++;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,No,Both,Yes,C/C++,C/C++
+Commerce,No,Both,Yes,C/C++,C/C++
+Commerce,Yes,Both,Yes,Java,Data Structure
+Commerce,Yes,Both,Yes,C/C++,Software Engineering
+Commerce,No,Theoretical,Yes,Python,C/C++
+Commerce,No,Practical,Yes,JavaScript,C/C++
+Science,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Node JS
+Science,No,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,Java;C/C++;JavaScript,C/C++;Data Structure
+Commerce,No,Both,Yes,C/C++;JavaScript;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Science,Yes,Both,Yes,C/C++,C/C++
+Science,No,Both,Yes,C/C++,Data Structure
+Commerce,Yes,Both,Yes,Python;Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Commerce,Yes,Both,Yes,Angular JS,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Practical,Yes,Python;Java;C/C++,C/C++;Data Structure
+Commerce,No,Both,Yes,C/C++,C/C++;Operating System;Data Structure
+Science,Yes,Both,Yes,C/C++,C/C++;Operating System;Data Structure;Software Engineering
+Science,No,Both,No,C/C++,C/C++
+Science,Yes,Both,Yes,Java,C/C++
